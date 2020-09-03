@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RobotFRiend/static/css/main.e82e03cb.chunk.css",
+    "main.css": "/RobotFRiend/static/css/main.c524c7f5.chunk.css",
     "main.js": "/RobotFRiend/static/js/main.ef8cb627.chunk.js",
     "main.js.map": "/RobotFRiend/static/js/main.ef8cb627.chunk.js.map",
     "runtime-main.js": "/RobotFRiend/static/js/runtime-main.dc9f6bfd.js",
@@ -9,10 +9,10 @@
     "static/js/2.7ddbcaf0.chunk.js": "/RobotFRiend/static/js/2.7ddbcaf0.chunk.js",
     "static/js/2.7ddbcaf0.chunk.js.map": "/RobotFRiend/static/js/2.7ddbcaf0.chunk.js.map",
     "index.html": "/RobotFRiend/index.html",
-    "precache-manifest.8c670af3e4f155e6c24504196b777efb.js": "/RobotFRiend/precache-manifest.8c670af3e4f155e6c24504196b777efb.js",
+    "precache-manifest.cc8480010ca0bf00b8ddb47ebf281fa8.js": "/RobotFRiend/precache-manifest.cc8480010ca0bf00b8ddb47ebf281fa8.js",
     "service-worker.js": "/RobotFRiend/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/RobotFRiend/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.e82e03cb.chunk.css.map": "/RobotFRiend/static/css/main.e82e03cb.chunk.css.map",
+    "static/css/main.c524c7f5.chunk.css.map": "/RobotFRiend/static/css/main.c524c7f5.chunk.css.map",
     "static/js/2.7ddbcaf0.chunk.js.LICENSE.txt": "/RobotFRiend/static/js/2.7ddbcaf0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/RobotFRiend/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.dc9f6bfd.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.7ddbcaf0.chunk.js",
-    "static/css/main.e82e03cb.chunk.css",
+    "static/css/main.c524c7f5.chunk.css",
     "static/js/main.ef8cb627.chunk.js"
   ]
 }
